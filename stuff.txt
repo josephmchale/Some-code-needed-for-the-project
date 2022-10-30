@@ -1,0 +1,50 @@
+C++
+	- Manly only the C parts work
+	- No OO, Consutrcton etc
+Rust
+	- As Bare bones as it can get
+	- atleast a year away
+
+C
+	- C seems to be the way forward
+
+Python Interface
+	- none to hardly any documentation yet for
+	- will be harder to program than SawScript
+	- planning to move away from sawscript to python in a few year
+		- However a lot of legacy code on sawscript so could take even longer
+	- they have no prefernce on whether to use sawscript or python
+		- main aim is to show upskilling of saw/python skill is possible with the project
+	- project will be slightlty easier to do with sawscript
+	- 1 year out
+
+we created the c code foer hte algoirtm
+they developed the cryptol specifcaton
+
+together the saw specfication is wrote 
+
+
+
+
+
+running cryptol
+	- can run through dev containter
+		- howver not as much configuarability
+	- can run native through linux
+
+running saw
+	- can run through
+	- dev containter
+		- windows
+		- docker
+			-settings, resources, file sharing, add course dev containter
+			- probaly need to deal with network restricitons
+if running into issues
+	- go through pass code
+		- course code 
+	- if fails and nothing on google
+	- email nscs
+	- if not they will email galosis
+
+
+
